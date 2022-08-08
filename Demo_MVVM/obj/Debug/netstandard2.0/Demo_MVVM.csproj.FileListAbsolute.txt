@@ -1,0 +1,15 @@
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/Demo_MVVM.AssemblyInfoInputs.cache
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/Demo_MVVM.AssemblyInfo.cs
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/Demo_MVVM.csproj.CoreCompileInputs.cache
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/bin/Debug/netstandard2.0/Demo_MVVM.deps.json
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/bin/Debug/netstandard2.0/Demo_MVVM.dll
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/bin/Debug/netstandard2.0/ref/Demo_MVVM.dll
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/bin/Debug/netstandard2.0/Demo_MVVM.pdb
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/Demo_MVVM.csproj.AssemblyReference.cache
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/Demo_MVVM.dll
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/ref/Demo_MVVM.dll
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/Demo_MVVM.pdb
+/Users/it/Documents/Xamarin/Demo_MVVM/Demo_MVVM/Demo_MVVM/obj/Debug/netstandard2.0/Pages/StaffListPage.xaml.g.cs

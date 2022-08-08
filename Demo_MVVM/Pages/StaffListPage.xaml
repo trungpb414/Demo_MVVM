@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:customview="clr-namespace:Demo_MVVM.Customize"
+    x:Class="Demo_MVVM.Pages.StaffListPage">
+    <ContentPage.Content>
+        <StackLayout  Padding="20,10">
+            <ListView x:Name="ContactsList" ItemsSource="{Binding MyList}" IsVisible="True">
+                <ListView.Header>
+                    <StackLayout Orientation="Horizontal">
+                    </StackLayout>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.ContextActions>
+                                <MenuItem Text="Delete Item" CommandParameter="{Binding .}">
+                                </MenuItem>
+                            </ViewCell.ContextActions>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding ID}"></Label>
+                                <Label Text="{Binding Name}"></Label>
+                                <Label Text="{Binding Age}"></Label>
+                                <Label Text="{Binding Gender}"></Label>
+                            </StackLayout>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <customview:CustomButton
+                x:Name="btnSignin"
+                CustomBorderColor="#24C4FF"
+                CustomBackgroundColor="#24C4FF"
+                Text="Custom Button" TextColor="White"
+                Clicked="btnSignin_Clicked"
+                CustomBorderRadius="20"
+                CustomBorderWidth="4"
+                VerticalOptions="Center"/>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
+
